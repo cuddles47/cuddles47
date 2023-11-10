@@ -1,6 +1,4 @@
 ## Hi there 
-<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px" />
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/itspyguru/)
 [![Youtube Badge](https://img.shields.io/badge/-youtube-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@itspyguru)
@@ -10,7 +8,7 @@
 
 #### I'm Nguyen Minh Duc aka Kewwi Ng ,
 
-Welcome to my little space on Github. Here i put my thoughts and ideas into code.
+Welcome to my little space on Github. Here i put my thoughts and ideas into code <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="60px" /> .
 
 - 🔭 Primary Coding language : C++
 - 🐍 Most used language : Python
