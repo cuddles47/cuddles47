@@ -8,17 +8,15 @@
 
 #### I'm Nguyen Minh Duc aka Kewwi Ng ,
 
-Welcome to my little space on Github. Here i put my thoughts and ideas into code <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="60px" /> .
+Welcome to my little space on Github. Here i put my thoughts and ideas into code . <img alt="GIF" src="wave.gif" width="60px" /> 
 
 - 🔭 Primary Coding language : C++
 - 🐍 Most used language : Python
 - 🌱 Currently studying IoT and Machine Learning
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- 📫 How to reach me : The fastest way to reach me is by Telegram
-
-- ⚡ Fun fact : I am a Megalomaniac, an Otaku and a fan of Otto Apocalypse 🤣.
-
+- 📫 How to reach me : The fastest way to reach me is by Telegram or Messenger
+- 
 <details>
 	<summary>Interested in knowing more about me 👇 </summary>
 
