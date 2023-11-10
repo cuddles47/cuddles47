@@ -4,7 +4,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-youtube-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@itspyguru)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/itspyguru/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/itspyguru)
-[![Pinterest Badge](https://img.shields.io/badge/Pinterest-E8175D?style=flat-square&logo=pinterest&logoColor=white)](https://www.pinterest.ca/itspyguru)
+[![Pinterest Badge](https://img.shields.io/badge/Pinterest-E8175D?style=flat-square&logo=pinterest&logoColor=white)](https://www.facebook.com/cauvong.kilan.3)
 
 #### I'm Nguyen Minh Duc aka Kewwi Ng ,
 
@@ -14,7 +14,7 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 - 🐍 Most used language : Python
 - 🌱 Currently studying IoT and Machine Learning
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to ML projects <img  and full fill my wallet <img alt = "GIF" src="coin.gif" width="60px" />
 - 📫 How to reach me : The fastest way to reach me is by Telegram or Messenger
 - 
 <details>
