@@ -18,13 +18,13 @@
 	<summary>Interested in knowing more about me 👇 </summary>
 
   <br />
-  <img alt="" align="right" src="https://github.com/cuddles47/cuddles47/blob/main/assets/richad(richard%20watterson%20chad%20phase).gif">
+  <img alt="" align="right" src="https://github.com/cuddles47/cuddles47/blob/main/assets/richad(richard%20watterson%20chad%20phase).gif" width="300">
 
   I am a 3rd Year undergraduate from Uneti university and FPT skillking, VietNam. I'm a Student, Developer, and Python Instructor. I like programming, gardening, jogging and playing games. Aspiring software developer and design enthusiast, driven by a relentless pursuit of self-improvement, seeks a platform for personal and professional growth.<br/>
   I like cooking and jogging, a down-to-earth and simple-minded individual, fervently interested in daily learning endeavors. In search of a mentor who is dedicated and wholeheartedly invested in my journey.
   <br />
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=10000&pause=1000&color=5BF7AD&background=FFC83500&random=false&width=435&lines=I+love+making+games+and+apps;I+believed+in+Python+supremacy;&width=400&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1200&pause=800&random=false&lines=I+believed+in+Python+supremacy;I+love+making+games;Passionate+in+ML;&width=400&height=50">
   </p>
   
 </details>
