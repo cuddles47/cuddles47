@@ -9,7 +9,7 @@
 
 #### I'm Nguyen Minh Duc aka Kewwi Ng ,
 
-Welcome to my little space on Github. Here i put my thoughts and ideas into code . <img alt="GIF" src="wave.gif" width="60px" /> 
+Welcome to my little space on Github. Here i put my thoughts and ideas into code . <img alt="GIF" src="https://github.com/cuddles47/cuddles47/blob/main/assets/coin.gif" width="60px" /> 
 
 - 🔭 Primary Coding language : C++
 - 🐍 Most used language : Python
