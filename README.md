@@ -1,10 +1,11 @@
-## Hi there 
+# Hi there 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/itspyguru/)
-[![Youtube Badge](https://img.shields.io/badge/-youtube-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@itspyguru)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/itspyguru/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/itspyguru)
-[![Pinterest Badge](https://img.shields.io/badge/Pinterest-E8175D?style=flat-square&logo=pinterest&logoColor=white)](https://www.facebook.com/cauvong.kilan.3)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/838987358400806914)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCE3wY9UeyiSf5m_Wl8IZKqQ)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mduc4723/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://twitter.com/utahasimp)
+[![Pinterest Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cauvong.kilan.3)
+
 
 #### I'm Nguyen Minh Duc aka Kewwi Ng ,
 
@@ -12,16 +13,16 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 
 - 🔭 Primary Coding language : C++
 - 🐍 Most used language : Python
-- 🌱 Currently studying IoT and Machine Learning
+- 🌱 Currently studying IoT and Machine Learning 
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2023 Goals: Contribute more to ML projects <img  and full fill my wallet <img alt = "GIF" src="coin.gif" width="60px" />
-- 📫 How to reach me : The fastest way to reach me is by Telegram or Messenger
-- 
+- 🥅 2023 Goals: Contribute more to ML projects and full fill my wallet <img alt = "GIF" src="coin.gif" width="20px" />
+- 📫 How to reach me : The fastest way to reach me is by Telegram or Discord
+
 <details>
 	<summary>Interested in knowing more about me 👇 </summary>
 
   <br />
-  <img alt="Hououin Kyoma" align="right" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/madScientist.gif">
+  <img alt="" align="right" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/madScientist.gif">
 
   I'm a Student, Developer, and Python Instructor. I like programming, 
   cryptography and designing. I am interested in extra-terrestrials and 
@@ -30,7 +31,7 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
   earth boy who is so keen to learn every day a new thing. 
   <br />
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=I+Love+Python;I'm+passionate+about+ML;I+love+making+Games+and+Apps;&width=400&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=I+Love+Dick;I'm+passionate+about+ML;I+love+making+Games+and+Apps;&width=400&height=50">
   </p>
   
 </details>
