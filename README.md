@@ -10,7 +10,7 @@ Welcome to my little space on Github. Here i put my thoughts and ideas into code
 - 🌱 Currently studying IoT and Machine Learning 
 - 👯 I’m looking to collaborate with other programmers
 - ✨ Fascinated by new technologies and want a place to learn n cook the code <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/gandalf_parrot.gif width="24px" />
-- 🥅 2023 Goals: Contribute more to ML projects, full fill my wallet for the fam <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/coin.gif width="24px" />
+- 🥅 2023 Goals: Contribute more to ML projects, full fill my wallet for the fam <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/coin.gif width="20px" />
 - <img alt="GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/powerup.gif width="20px" /> **Pronouns:** [*He/Him*] 🧔
 - 📫 How to reach me : The fastest way to reach me is by Telegram or Discord
 
