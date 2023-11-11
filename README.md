@@ -32,16 +32,16 @@
 <details>
 	<summary> ⚡ Github Stats </summary>
 	<br />
-
+	
 <div style="display:flex; flex-flow: column wrap;">
 	<div style="width:50%">
 	  	<a href="https://github.com/cuddles47">
-	    		<img src="[![Kewwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuddles47)](https://github.com/cuddles47/github-readme-stats)"/>
+	    		<img src="https://github-readme-stats.vercel.app/api?username=cuddles47&show_icons=true&theme=gotham" alt="Kewwi's GitHub stats"/>
 	 	 </a>
 	</div>
 	<div style="width:50%">
 	    <a href="https://github.com/cuddles47">
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=cuddles47&theme=date-night&ring=e2fdff&fire=14FE64&currStreakNum=e2fdff&currStreakLabel=e2fdff&sideNums=e2fdff&sideLabels=50c878&dates=50c878&hide_border=true" />
+		<img src="https://github-readme-streak-stats.herokuapp.com?user=cuddles47&theme=gotham&border_radius=5" />
 	    </a>
         </div>
 </div>
