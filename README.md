@@ -36,7 +36,7 @@
 <div style="display:flex; flex-flow: column wrap;">
 	<div style="width:50%">
 	  	<a href="https://github.com/cuddles47">
-	    		<img src="https://github-readme-stats.vercel.app/api?username=cuddles47&show_icons=true&hide=&count_private=true&title_color=0D1117&text_color=50c878&icon_color=00FFFF&bg_color=0D1117&hide_border=true&show_icons=true"alt="Kewwi's GitHub stats"/>
+	    		<img src="[![Kewwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuddles47)](https://github.com/cuddles47/github-readme-stats)"/>
 	 	 </a>
 	</div>
 	<div style="width:50%">
