@@ -18,7 +18,7 @@
 	<summary>Interested in knowing more about me 👇 </summary>
 
   <br />
-  <img alt="" align="right" src="https://github.com/pyGuru123/pyGuru123/blob/main/assets/madScientist.gif">
+  <img alt="" align="right" src=https://github.com/cuddles47/cuddles47/blob/main/assets/richad(richard%20watterson%20chad%20phase.gif />
 
   I am a 3rd Year undergraduate from Uneti university and FPT skillking, VietNam. I'm a Student, Developer, and Python Instructor. I like programming, gardening, jogging and playing games. Aspiring software developer and design enthusiast, driven by a relentless pursuit of self-improvement, seeks a platform for personal and professional growth.<br/>
   I like cooking and jogging, a down-to-earth and simple-minded individual, fervently interested in daily learning endeavors. In search of a mentor who is dedicated and wholeheartedly invested in my journey.
@@ -35,7 +35,7 @@
 
 <div style="display:flex; flex-flow: column wrap;">
 	<div style="width:50%">
-	  	<a href="https://github.com/pyguru123">
+	  	<a href="https://github.com/cuddles47">
 	    		<img src="https://github-readme-stats.vercel.app/api?username=cuddles47&show_icons=true&hide=&count_private=true&title_color=0D1117&text_color=50c878&icon_color=00FFFF&bg_color=0D1117&hide_border=true&show_icons=true" alt="Kewwi's GitHub stats"/>
 	 	 </a>
 	</div>
