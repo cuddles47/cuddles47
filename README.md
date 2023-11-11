@@ -1,6 +1,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/838987358400806914)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCE3wY9UeyiSf5m_Wl8IZKqQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mduc4723/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://twitter.com/utahasimp)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Pinterest Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cauvong.kilan.3)
 
-## **Hello World!**
+# **Hello World!**
 
 #### Hi there ^^! I'm Nguyen Minh Duc aka Kewwi Ng ,Welcome to my little space on Github. 
  Here i put my thoughts and ideas into code . <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/wave.gif width="60px" /> 
@@ -20,7 +20,7 @@
   <br />
   <img alt="" align="right" src="https://github.com/cuddles47/cuddles47/blob/main/assets/richad(richard%20watterson%20chad%20phase).gif" width="300">
 
-  I am a 3rd Year undergraduate from Uneti university and FPT skillking, VietNam. I'm a Student, Developer, and Python Instructor. I like programming, gardening, jogging and playing games. Aspiring software developer and design enthusiast, driven by a relentless pursuit of self-improvement, seeks a platform for personal and professional growth.<br/>
+  I am a 3rd Year undergraduate from Uneti university and FPT skillking, VietNam. I'm a Student, Developer, and Python Instructor. I like programming, gardening, jogging and playing games with friends. Aspiring software developer and design enthusiast, driven by a relentless pursuit of self-improvement, seeks a platform for personal and professional growth.<br/>
   I like cooking and jogging, a down-to-earth and simple-minded individual, fervently interested in daily learning endeavors. In search of a mentor who is dedicated and wholeheartedly invested in my journey.
   <br />
   <p align="center">
