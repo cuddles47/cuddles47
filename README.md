@@ -1,8 +1,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/838987358400806914)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCE3wY9UeyiSf5m_Wl8IZKqQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mduc4723/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://twitter.com/utahasimp)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Pinterest Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cauvong.kilan.3)
 
-## **Hi there**
+## **Hello World! **
 
-#### I'm Nguyen Minh Duc aka Kewwi Ng ,Welcome to my little space on Github. 
+#### Hi there ^^! I'm Nguyen Minh Duc aka Kewwi Ng ,Welcome to my little space on Github. 
  Here i put my thoughts and ideas into code . <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/wave.gif width="60px" /> 
 
 - 🔭 Primary Coding language : C++
