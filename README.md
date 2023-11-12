@@ -30,13 +30,13 @@
 </details>
 
 <details>
-	<summary> ⚡ **Github Stats** </summary>
+	<summary> ⚡ Github Stats </summary>
 	<br />
 	
 <div style="display:flex; flex-flow: column wrap;">
 	<div style="width:50%">
 	  	<a href="https://github.com/cuddles47">
-	    		<img src="https://github-readme-stats.vercel.app/api?username=cuddles47&show_icons=true&theme=ambient_gradient&border_radius=6" alt="Kewwi's GitHub stats"/>
+	    		`<img src="https://github-readme-stats.vercel.app/api?username=cuddles47&show_icons=true&theme=ambient_gradient&border_radius=6" alt="Kewwi's GitHub stats"/>`
 	 	 </a>
 	</div>
 	<div style="width:50%">
