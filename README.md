@@ -20,7 +20,7 @@
 - 📫 How to reach me : The fastest way to reach me is by Telegram or Discord
 
 <details>
-	<summary>**Interested in knowing more about me** <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/point_down.gif width="24px" /> </summary>
+	<summary> Interested in knowing more about me <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/point_down.gif width="24px" /> </summary>
 
   <br />
   <img alt="" align="right" src="https://github.com/cuddles47/cuddles47/blob/main/assets/richad(richard%20watterson%20chad%20phase).gif" width="300">
