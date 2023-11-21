@@ -17,7 +17,7 @@
 - ✨ Fascinated by new technologies and want a place to learn n cook the code <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/Cauldron.gif width="15px" /><img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/gandalf_parrot.gif width="24px" />
 - 🥅 2023 Goals: Contribute more to ML projects, full fill my wallet for the fam <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/coin.gif width="20px" />
 - <img alt="GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/powerup.gif width="20px" /> **Pronouns:** [*He/Him*] 🧔
-- 📫 How to reach me : The fastest way to reach me is by Telegram or Discord
+- 📫 How to reach me : The fastest way to reach me is by Facebook or Discord
 
 <details>
 	<summary> Interested in knowing more about me <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/point_down.gif width="24px" /> </summary>
