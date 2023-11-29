@@ -15,7 +15,7 @@
 - 🌱 Currently studying Computer Vision and Machine Learning 
 - 👯 I’m looking to collaborate with other programmers, open to learn new stuff
 - ✨ Fascinated by new technologies and want a place to learn n cook the code <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/Cauldron.gif width="15px" /><img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/gandalf_parrot.gif width="24px" />
-- 🥅 2023 Goals: Contribute more to ML projects, full fill my wallet for the fam <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/coin.gif width="20px" />
+- 🥅 2023 Goals: Contribute more to ML projects, achieve more knowlegde, bulking and full fill my wallet for the fam <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/coin.gif width="20px" />
 - <img alt="GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/powerup.gif width="20px" /> **Pronouns:** [*He/Him*] 🧔
 - 📫 How to reach me : The fastest way to reach me is by Facebook or Discord
 
@@ -34,7 +34,7 @@ With a down-to-earth demeanor and a straightforward approach to life, I embrace 
 
 In my quest for mastery, I actively seek a mentor who shares my passion and is dedicated to guiding me on this dynamic journey. Whether I'm delving into the intricacies of coding, exploring innovative solutions, or actively pursuing the latest in technology, I bring a relentless pursuit of excellence and a readiness to embrace new challenges. 
 
-I 'm in search of a mentor who is dedicated and wholeheartedly invested in my journey. &nbsp;<img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/happy.gif width="24px" />
+I 'm in search of a mentor who is dedicated and wholeheartedly invested in my journey and a workplace to pay the bills and fully develope myself. &nbsp;<img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/happy.gif width="24px" />
   <br />
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1200&pause=800&random=false&lines=I+believed+in+Python+supremacy;I+love+making+games;Passionate+in+ML;&width=400&height=50">
