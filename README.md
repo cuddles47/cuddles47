@@ -15,7 +15,7 @@
 - 🌱 Currently studying Computer Vision and Machine Learning 
 - 👯 I’m looking to collaborate with other programmers, open to learn new stuff
 - ✨ Fascinated by new technologies and want a place to learn n cook the code <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/Cauldron.gif width="15px" /><img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/gandalf_parrot.gif width="24px" />
-- 🥅 2023 Goals: Contribute more to ML projects, achieve more knowlegde, bulking and full fill my wallet for the fam <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/coin.gif width="20px" />
+- 🥅 2023 Goals: Contribute more to ML projects, achieve more knowlegde, be more discipline, bulking and full fill my wallet for the fam <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/coin.gif width="20px" />
 - <img alt="GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/powerup.gif width="20px" /> **Pronouns:** [*He/Him*] 🧔
 - 📫 How to reach me : The fastest way to reach me is by Facebook or Discord
 
@@ -39,7 +39,12 @@ I 'm in search of a mentor who is dedicated and wholeheartedly invested in my jo
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1200&pause=800&random=false&lines=I+believed+in+Python+supremacy;I+love+making+games;Passionate+in+ML;&width=400&height=50">
   </p>
-  
+  <p align="center">
+     *'In my own way to my goal with my duty and ain't gonna stop till things done'*
+  </p>
+  <p align="center">
+     <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/403210208_331194382991977_1610066798593562093_n.jpg />
+  </p>
 </details>
 
 <details>
