@@ -1,7 +1,5 @@
 <!-- 
-     author =       "Kewwi Ng aka Nguyen Minh Duc",
-     year   =       "2003",
-     date  =	    "November 15th ,2023"
+	Kewwi made this
 -->
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/838987358400806914)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCE3wY9UeyiSf5m_Wl8IZKqQ)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mduc4723/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://twitter.com/utahasimp)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Pinterest Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/cauvong.kilan.3)
 
@@ -54,17 +52,23 @@ I 'm in search of a mentor who is dedicated and wholeheartedly invested in my jo
 	<br />
 	
 <div style="display:flex; flex-flow: column wrap;">
-	<div style="width:50%">
-	  	<a href="https://github.com/cuddles47">
-	    		`<img src="https://github-readme-stats.vercel.app/api?username=cuddles47&show_icons=true&theme=ambient_gradient&border_radius=6" alt="Kewwi's GitHub stats"/>`
-	 	 </a>
-	</div>
-	<div style="width:50%">
-	    <a href="https://github.com/cuddles47">
-		<img src="https://github-readme-streak-stats.herokuapp.com?user=cuddles47&theme=ambient_gradient&border_radius=6" />
-	    </a>
-        </div>
-</div>
+  <div
+	<p align="center">
+  		<a href="https://github.com/alsiam">
+    			<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cuddles47&theme=tokyonight"/>
+  		</a>
+	</p>
+	<p align="center">
+  		<a href="https://github.com/alsiam">
+    			<img src="https://github-readme-stats.vercel.app/api?username=cuddles47&show_icons=true&theme=tokyonight&border_radius=6" alt="Kewwi's GitHub stats"/>
+  		</a>
+	</p>
+	<p align="center">
+  		<a href="https://github.com/alsiam">
+    			<img src="https://github-readme-streak-stats.herokuapp.com?user=cuddles47&theme=tokyonight&border_radius=6"/>
+  		</a>
+	</p>
+  </div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=cuddles47&label=PROFILE+VIEWS&style=flat-square) 
 ![GitHub followers](https://img.shields.io/github/followers/cuddles47?style=social)
@@ -78,6 +82,17 @@ I 'm in search of a mentor who is dedicated and wholeheartedly invested in my jo
 
 </div>
 
+
+
+
+
+
+
+
+<!-- 
+     author =       "Kewwi Ng aka Nguyen Minh Duc",
+     date  =	    "November 15th ,2023"
+-->
 
 
 
