@@ -75,6 +75,7 @@ I 'm in search of a mentor who is dedicated and wholeheartedly invested in my jo
 </details>
 <img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center"> Show some ❤️ by starring some of the repositories!
+	
 <img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
