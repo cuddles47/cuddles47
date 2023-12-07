@@ -10,7 +10,7 @@
 
 - 🔭 Primary Coding language : C++
 - 🐍 Most used language : Python
-- 🌱 Currently studying Computer Vision and Machine Learning 
+- 🌱 Currently studying Machine Learning 
 - 👯 I’m looking to collaborate with other programmers, open to learn new stuff
 - ✨ Fascinated by new technologies and want a place to learn n cook the code <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/Cauldron.gif width="15px" /><img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/gandalf_parrot.gif width="24px" />
 - 🥅 2023 Goals : Contribute more to ML projects, achieve more knowlegde, be more discipline, bulking and full fill my wallet for the fam <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/coin.gif width="20px" />
@@ -18,7 +18,7 @@
 - 📫 How to reach me : The fastest way to reach me is by Facebook or Discord
 - 📧 Reach me anytime : kilancauvonglaplanh@gmail.com
 - 💬 Ask me about anything [here](https://github.com/cuddles47/cuddles47/issues)
-
+<img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <details>
 	<summary> Interested in knowing more about me <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/point_down.gif width="24px" /> </summary>
 
@@ -46,7 +46,7 @@ I 'm in search of a mentor who is dedicated and wholeheartedly invested in my jo
      <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/403210208_331194382991977_1610066798593562093_n.jpg />
   </p>
 </details>
-
+<img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <details>
 	<summary> ⚡ Github Stats </summary>
 	<br />
@@ -73,16 +73,10 @@ I 'm in search of a mentor who is dedicated and wholeheartedly invested in my jo
 ![Profile views](https://komarev.com/ghpvc/?username=cuddles47&label=PROFILE+VIEWS&style=flat-square) 
 ![GitHub followers](https://img.shields.io/github/followers/cuddles47?style=social)
 </details>
-
-#
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
+<img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center"> Show some ❤️ by starring some of the repositories!
+<img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
-
 
 
 
