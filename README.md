@@ -41,8 +41,8 @@ I 'm in search of a mentor who is dedicated and wholeheartedly invested in my jo
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1200&pause=800&random=false&lines=I+believed+in+Python+supremacy;I+love+making+games;Passionate+in+ML;&width=400&height=50">
   </p>
-  <p align="center">
-     ** In&nbsp;my&nbsp;own&nbsp;way&nbsp;to&nbsp;my&nbsp;goal&nbsp;with&nbsp;my&nbsp;duty&nbsp;and&nbsp;ain't&nbsp;gonna&nbsp;stop&nbsp;till&nbsp;things&nbsp;done**
+  <p align="center"style="font-size: 20px; color: blue;" >
+    <strong>In my own way to my goal with my duty and ain't gonna stop till things done</strong>
   </p>
   <p align="center">
      <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/403210208_331194382991977_1610066798593562093_n.jpg />
