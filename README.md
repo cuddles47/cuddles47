@@ -18,7 +18,7 @@
 - 📫 How to reach me : The fastest way to reach me is by Facebook or Discord
 - 📧 Reach me anytime : kilancauvonglaplanh@gmail.com
 - 💬 Ask me about anything [here](https://github.com/cuddles47/cuddles47/issues)
-<img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="My GIF" title="My GIF" target="_blank">
 <details>
 	<summary> Interested in knowing more about me <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/point_down.gif width="24px" /> </summary>
 
@@ -46,7 +46,7 @@ I 'm in search of a mentor who is dedicated and wholeheartedly invested in my jo
      <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/403210208_331194382991977_1610066798593562093_n.jpg />
   </p>
 </details>
-<img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="My GIF" title="My GIF" target="_blank">
 <details>
 	<summary> ⚡ Github Stats </summary>
 	<br />
@@ -73,10 +73,10 @@ I 'm in search of a mentor who is dedicated and wholeheartedly invested in my jo
 ![Profile views](https://komarev.com/ghpvc/?username=cuddles47&label=PROFILE+VIEWS&style=flat-square) 
 ![GitHub followers](https://img.shields.io/github/followers/cuddles47?style=social)
 </details>
-<img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="My GIF" title="My GIF" target="_blank">
 <h3 align="center"> Show some ❤️ by starring some of the repositories!
-	
-<img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="My GIF" title="My GIF" target="_blank">
 </div>
 
 
