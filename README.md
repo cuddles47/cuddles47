@@ -55,20 +55,24 @@ I 'm in search of a mentor who is dedicated and wholeheartedly invested in my jo
   <div
 	<p align="center">
   		<a href="https://github.com/cuddles47">
-    			<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cuddles47&theme=tokyonight"/>
+    			<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cuddles47&theme=radical "/>
   		</a>
 	</p>
 	<p align="center">
   		<a href="https://github.com/cuddles47">
-    			<img src="https://github-readme-stats.vercel.app/api?username=cuddles47&show_icons=true&theme=tokyonight&border_radius=6" alt="Kewwi's GitHub stats"/>
+    			<img src="https://github-readme-stats.vercel.app/api?username=cuddles47&show_icons=true&theme=radical &border_radius=6" alt="Kewwi's GitHub stats"/>
   		</a>
 	</p>
 	<p align="center">
   		<a href="https://github.com/cuddles47">
-    			<img src="https://github-readme-streak-stats.herokuapp.com?user=cuddles47&theme=tokyonight&border_radius=6"/>
+    			<img src="https://github-readme-streak-stats.herokuapp.com?user=cuddles47&theme=radical &border_radius=6"/>
   		</a>
 	</p>
   </div>
+<-- 
+theme list [tokyonight, cobalt, nightowl, blueberry, ambient_gradient, radical, gotham]
+--> 
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=cuddles47&label=PROFILE+VIEWS&style=flat-square) 
 ![GitHub followers](https://img.shields.io/github/followers/cuddles47?style=social)
