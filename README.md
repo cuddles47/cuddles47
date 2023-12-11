@@ -69,7 +69,7 @@ I 'm in search of a mentor who is dedicated and wholeheartedly invested in my jo
   		</a>
 	</p>
   </div>
-<-- 
+<!-- 
 theme list [tokyonight, cobalt, nightowl, blueberry, ambient_gradient, radical, gotham]
 --> 
 
