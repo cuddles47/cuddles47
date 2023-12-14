@@ -72,17 +72,17 @@ I 'm in search of a mentor who is dedicated and wholeheartedly invested in my jo
   <div
 	<p align="center">
   		<a href="https://github.com/cuddles47">
-    			<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cuddles47&theme=blueberry "/>
+    			<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cuddles47&theme=tokyonight "/>
   		</a>
 	</p>
 	<p align="center">
   		<a href="https://github.com/cuddles47">
-    			<img src="https://github-readme-stats.vercel.app/api?username=cuddles47&show_icons=true&theme=blueberry&border_radius=6" alt="Kewwi's GitHub stats"/>
+    			<img src="https://github-readme-stats.vercel.app/api?username=cuddles47&show_icons=true&theme=tokyonight&border_radius=6" alt="Kewwi's GitHub stats"/>
   		</a>
 	</p>
 	<p align="center">
   		<a href="https://github.com/cuddles47">
-    			<img src="https://github-readme-streak-stats.herokuapp.com?user=cuddles47&theme=blueberry&border_radius=6"/>
+    			<img src="https://github-readme-streak-stats.herokuapp.com?user=cuddles47&theme=tokyonight&border_radius=6"/>
   		</a>
 	</p>
   </div>
