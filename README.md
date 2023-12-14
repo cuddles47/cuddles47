@@ -71,7 +71,23 @@ I 'm in search of a mentor who is dedicated and wholeheartedly invested in my jo
   </div>
 <!-- 
 theme list [tokyonight, cobalt, nightowl, blueberry, ambient_gradient, radical, gotham]
---> 
+-->
+<img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="My GIF" title="My GIF" target="_blank">
+<details>
+	<summary> 🐍 Watch my contribution graph get eaten by the snake </summary>
+	<br />
+	
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/cuddles47/cuddles47/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://https://github.com/cuddles47/cuddles47/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://https://github.com/cuddles47/cuddles47/output/github-contribution-grid-snake.svg">
+</picture>
+
+<p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/cuddles/count.svg" />
+  </br>
+</p>
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=cuddles47&label=PROFILE+VIEWS&style=flat-square) 
