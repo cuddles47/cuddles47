@@ -95,7 +95,9 @@ theme list [tokyonight, cobalt, nightowl, blueberry, ambient_gradient, radical, 
 </details>
 
 <img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="My GIF" title="My GIF" target="_blank">
-<h3 align="center" >Show some ❤️ by starring some of the repositories!</h3>
+<h3 align="center">
+  Show some ❤️ by starring some of the repositories !
+</h3>
 <br>
 <p align="center">
   <img src="https://github.com/cuddles47/cuddles47/blob/main/assets/6dc1c2e41507f4a4c4443da157e690d8.png" width="130px">
