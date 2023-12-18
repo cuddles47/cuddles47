@@ -90,8 +90,7 @@ I 'm in search of a mentor who is dedicated and wholeheartedly invested in my jo
 <!-- 
 theme list [tokyonight, cobalt, nightowl, blueberry, ambient_gradient, radical, gotham]
 -->
-![Profile views](https://komarev.com/ghpvc/?username=cuddles47&label=PROFILE+VIEWS&style=flat-square) 
-![GitHub followers](https://img.shields.io/github/followers/cuddles47?style=social)
+
 </details>
 
 <img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="My GIF" title="My GIF" target="_blank">
@@ -102,6 +101,10 @@ theme list [tokyonight, cobalt, nightowl, blueberry, ambient_gradient, radical, 
 <p align="center">
   <img src="https://github.com/cuddles47/cuddles47/blob/main/assets/6dc1c2e41507f4a4c4443da157e690d8.png" width="130px">
 </p>   
+
+
+![Profile views](https://komarev.com/ghpvc/?username=cuddles47&label=PROFILE+VIEWS&style=flat-square) 
+![GitHub followers](https://img.shields.io/github/followers/cuddles47?style=social)
 <img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="My GIF" title="My GIF" target="_blank">
 </div>
 
