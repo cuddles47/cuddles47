@@ -18,7 +18,7 @@
 - 💬 Ask me about anything [here](https://github.com/cuddles47/cuddles47/issues)
 <img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="My GIF" title="My GIF" target="_blank">
 <details>
-	<summary> 🧐 Interested in knowing more about me <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/point_down.gif width="24px" /> </summary>
+	<summary> 🧐 INTERESTING IN KNOWING MORE ABOUT ME <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/point_down.gif width="24px" /> </summary>
 
   <br />
   <img alt="" align="right" src="https://github.com/cuddles47/cuddles47/blob/main/assets/richad(richard%20watterson%20chad%20phase).gif" width="300">
@@ -46,7 +46,7 @@ I 'm in search of a mentor who is dedicated and wholeheartedly invested in my jo
 </details>
 <img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="My GIF" title="My GIF" target="_blank">
 <details>
-	<summary> 🐍 Watch my contribution graph get eaten by the snake </summary>
+	<summary> 🐍 WATCH MY CONTRIBUTION GRAPH GET EATEN BY THE SNAKE  </summary>
 	<br />
 	
 <picture>
@@ -63,7 +63,7 @@ I 'm in search of a mentor who is dedicated and wholeheartedly invested in my jo
 </details>
 <img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="My GIF" title="My GIF" target="_blank">
 <details>
-	<summary> ⚡ Github Stats </summary>
+	<summary> ⚡ GITHUB STATS </summary>
 	<br />
 	
 <div style="display:flex; flex-flow: column wrap;">
@@ -92,7 +92,7 @@ theme list [tokyonight, cobalt, nightowl, blueberry, ambient_gradient, radical, 
 </details>
 <img src="https://github.com/cuddles47/cuddles47/blob/main/assets/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="My GIF" title="My GIF" target="_blank">
 <details>
-	<summary> 📞 Contact  </summary>
+	<summary> 📞 MY SOCIAL  </summary>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 <\p>
