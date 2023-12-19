@@ -24,7 +24,7 @@
   <img alt="" align="right" src="https://github.com/cuddles47/cuddles47/blob/main/assets/richad(richard%20watterson%20chad%20phase).gif" width="300">
 
   
-Salutations! I'm currently navigating my third year at Uneti University and FPT Skillking in Vietnam, juggling roles as an avid student, a proficient developer, and a dedicated Python instructor. In addition to my tech-centric pursuits, I derive pleasure from gardening, relish invigorating jogs, and partake in lively gaming sessions with friends.
+Salute! I'm currently navigating my third year at Uneti University and FPT Skillking in Vietnam, juggling roles as an avid student, a proficient developer, and a dedicated Python instructor. In addition to my tech-centric pursuits, I derive pleasure from gardening, relish invigorating jogs, and partake in lively gaming sessions with friends.
 
 I am deeply committed to evolving into a seasoned software developer and design enthusiast, fueled by an unyielding dedication to self-improvement. Beyond coding and tending to my garden, I find joy in experimenting with cooking and turning basic ingredients into gratifying meals.
 
