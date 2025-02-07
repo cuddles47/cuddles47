@@ -8,10 +8,10 @@
 
 - 🔭 Primary Coding language : C++
 - 🐍 Most used language : Python
-- 🌱 Currently studying Machine Learning and IoT
+- 🌱 Currently studying Machine Learning and MLOps(ML Operation)
 - 👯 I’m looking to collaborate with other programmers, open to learn new stuff
 - ✨ Fascinated by new technologies and want a place to learn and cook the code <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/Cauldron.gif width="15px" /><img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/gandalf_parrot.gif width="24px" />
-- 🥅 2024 Goals : Contribute more to ML projects, achieve more knowlegde, be more discipline, build up some muscle and full fill my wallet for the fam <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/coin.gif width="20px" />
+- 🥅 2025 Goals : Contribute more to ML projects, achieve more knowlegde, be more discipline, build up some muscle and full fill my wallet for the fam <img alt = "GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/coin.gif width="20px" />
 - <img alt="GIF" src=https://github.com/cuddles47/cuddles47/blob/main/assets/powerup.gif width="20px" /> **Pronouns:** [*He/Him*] 🧔
 - 📫 How to reach me : The fastest way to reach me is by Facebook or Discord
 - 📧 Reach me anytime : kilancauvonglaplanh@gmail.com
